@@ -1,5 +1,5 @@
-Esse repos=sitorio é destinado a divulgar metodos de analise de dados do conjuto de dados de CNPJ divulgados pelo governo federal no 
-link :https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
+Esse repos=sitorio é destinado a divulgar metodos de analise de dados do conjuto de dados de CNPJ divulgados pelo governo federal no  
+link :https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj  
 repositorio :https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/
 
 
